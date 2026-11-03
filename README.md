@@ -46,4 +46,4 @@ Historical-price forecasting is sensitive to period selection, look-ahead leakag
 
 - [Training notebook](Stock_Price_Predictor.ipynb)
 - [Second notebook](Stock_Price_Predictor_stream_lit.ipynb)
-- [Repository](https://github.com/777tharun7/Stock_Price_Predictor)
+- - [Repository](https://github.com/ashishrao12/Stock_Price_Predictor)
